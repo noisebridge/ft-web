@@ -11,7 +11,7 @@ FT Web is a user-friendly web app and API for
 
 If you are physically at Noisebridge...
 
-1. Visit <http://pegasus.noise:4444/> in your favorite web browser
+1. Visit <http://pegasus.noise:4444/> (update: 2022, try http://led-square:4444 instead) in your favorite web browser
 
 2. Type/upload the text, image (including GIFs), or video you want to see displayed on the FT
 
